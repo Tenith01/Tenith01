@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/tenith01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/tenith01" height="30" width="40" /></a>
-<a href="https://dev.to/tenith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tenith" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/tenith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tenith" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tenith-hasintha-807bb7219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tenith-hasintha-807bb7219/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7743041/hasintha-mathangadeera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7743041/hasintha-mathangadeera" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/tenith01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/tenith01" height="30" width="40" /></a>
@@ -144,4 +144,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/tenith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/tenith" /></a><a href="https://ko-fi.com/ko-fi.com/tenith"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/tenith" /></a></p><br><br>
-# tenith-me
