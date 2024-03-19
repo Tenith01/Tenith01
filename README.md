@@ -17,7 +17,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tenith01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tenith01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenith01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@Tenith01" frameborder="0"></iframe>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tenith01&theme=nord&no-frame=false&no-bg=true&margin-w=4)
