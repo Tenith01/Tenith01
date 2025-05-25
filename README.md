@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Tenith01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 # 🔢 Top Languages:
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@Tenith01" frameborder="0"></iframe>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?user=Tenith01" frameborder="0"></iframe>
 
 
 ## 🏆 GitHub Trophies
